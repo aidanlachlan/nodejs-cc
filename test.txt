@@ -1,1 +1,4 @@
-This is from the text file
+Hello, I am writing to this file
+This is appended text
+
+// 1:33 assignment
